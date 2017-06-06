@@ -1,2 +1,2 @@
 # smallprogram
-noob 001
+noob 001sss
