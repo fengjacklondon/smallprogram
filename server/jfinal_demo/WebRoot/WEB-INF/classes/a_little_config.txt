@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://127.0.0.1:4706/smallp?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =Wewechat
+devMode = true
